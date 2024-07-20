@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_main_page_statistics",
+  "info": {
+    "displayName": "Statistic",
+    "icon": "star"
+  },
+  "options": {},
+  "attributes": {
+    "Number": {
+      "type": "integer"
+    },
+    "Description": {
+      "type": "string"
+    }
+  }
+}
